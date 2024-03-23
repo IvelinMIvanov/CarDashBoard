@@ -1,0 +1,19 @@
+{
+    "files": [
+        "AnalogGaugeWidget.py",
+        "fonts/ds_digital/DS-DIGI.TTF",
+        "fonts/ds_digital/DS-DIGIB.TTF",
+        "fonts/ds_digital/DS-DIGII.TTF",
+        "fonts/ds_digital/DS-DIGIT.TTF",
+        "icons.qrc",
+        "icons/charging-circuit-failure-svgrepo-com.svg",
+        "icons/coolant-temperature-svgrepo-com (1).svg",
+        "icons/coolant-temperature-svgrepo-com.svg",
+        "icons/coolant-temperature-svgrepo-com_bigger.svg",
+        "icons/oil-pressure-alarm-svgrepo-com.svg",
+        "interface.ui",
+        "mainwindow.py",
+        "style.json",
+        "ui_interface.py"
+    ]
+}

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/coolant-temperature-svgrepo-com_BlackRed.svg</file>
+    <file>icons/charging-circuit-failure-svgrepo-com.svg</file>
+    <file>icons/oil-pressure-alarm-svgrepo-com_red_Black.svg</file>
+  </qresource>
+</RCC>
